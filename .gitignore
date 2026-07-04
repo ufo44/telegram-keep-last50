@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.session
+*.session-journal
+*.log
+*.auth_state.json
+.env
+.venv/
+venv/
